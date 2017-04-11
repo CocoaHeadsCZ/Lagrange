@@ -1,11 +1,11 @@
 # Site Settings
-title:               Lagrange
-tagline:             a minimalist Jekyll theme
+title:               CocoaHeadsCZ
+tagline:             Prague chapter of CocoaHeads
 description:
 baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+url:                #"https://cocoaheads.cz"
 github:
-  url:               #"https://lenpaul.github.io/Lagrange"
+  url:               #"https://github.com/CocoaHeadsCZ/Website"
 author:
   name:              "Paul Le"
   email:             "l.nguyen.paul@gmail.com"
