@@ -12,7 +12,7 @@ layout: default
 
 {{ content }}
 
-<span class="post-date">
+<!-- <span class="post-date">
   Written on
   {% assign d = page.date | date: "%-d"  %}
   {{ page.date | date: "%B" }}
@@ -23,9 +23,9 @@ layout: default
     {% else %}{{ d }}th{% endcase %},
   {{ page.date | date: "%Y" }}
   by {{ site.author.name }}
-</span>
+</span> -->
 {% include social-sharing.html %}
-{% include related-posts.html %}
+<!-- {% include related-posts.html %} -->
 
 {% if site.disqus %}
   {% include disqus.html %}
