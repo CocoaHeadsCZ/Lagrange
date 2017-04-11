@@ -2,25 +2,16 @@
 title:               CocoaHeadsCZ
 tagline:             Prague chapter of CocoaHeads
 description:
-baseurl:            #"/Lagrange"
+baseurl:            #"/"
 url:                #"https://cocoaheads.cz"
 github:
   url:               #"https://github.com/CocoaHeadsCZ/Website"
 author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  name:              "CocoaHeadsCZ"
+  email:             "cocoaheadscz@gmail.com"
+  twitter:           "cocoaheadscz"
+  github:            "cocoaheadscz"
 navigation:
-- title: About
-  url: /about
-- title: Writing
-  url: /writing
-- title: Contact
-  url: /contact
 
 paginate:            5
 disqus:              #"your-disqus"
